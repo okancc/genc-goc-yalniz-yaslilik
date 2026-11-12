@@ -74,7 +74,7 @@ Proje Python 3.15 ile geliştirilmiştir.
 
 ## Medium yazısı
 
-Projenin hikâyesini ve süreçte öğrendiklerimi anlattığım yazı: [Aynı Göç, Farklı Kader: Türkiye'de Yalnız Yaşlılığın Haritası](MEDIUM_LINKI_BURAYA)
+Projenin hikâyesini ve süreçte öğrendiklerimi anlattığım yazı: [Aynı Göç, Farklı Kader: Türkiye'de Yalnız Yaşlılığın Haritası](https://medium.com/@okancc34/t%C3%BCrkiyede-yaln%C4%B1z-ya%C5%9Fl%C4%B1l%C4%B1%C4%9F%C4%B1n-haritas%C4%B1-048542950d0b)
 
 ## Veri kullanımı
 
